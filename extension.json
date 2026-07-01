@@ -1,0 +1,13 @@
+{
+  "name": "TUSB320 USB-C Port Controller",
+  "apiVersion": "1.0.0",
+  "author": "Georges Palauqui (georges@foundation.xyz)",
+  "version": "1.0.0",
+  "description": "Saleae Logic 2 HLA for TI TUSB320 I2C USB Type-C port-controller traffic",
+  "extensions": {
+    "TUSB320 USB-C Port Controller": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "TUSB320Analyzer.TUSB320Analyzer"
+    }
+  }
+}
