@@ -17,3 +17,8 @@ The decoder recognizes:
 - `CurrentModeDetectAdvertise` at `0x08`
 - `StateDirInterruptStatus` at `0x09`
 - `DebounceModeSelectReset` at `0x0A`, including `mode_select`, `soft_reset`, and debounce fields
+
+## License
+
+Licensed under either of the [Apache License, Version 2.0](LICENSE-APACHE) or the
+[MIT license](LICENSE-MIT), at your option.
